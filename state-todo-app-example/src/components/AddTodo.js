@@ -1,3 +1,5 @@
+import './AddTodo.css';
+
 function AddTodo(props) {
     let todoText = '';
     const { addTodo } = props;
