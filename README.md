@@ -23,3 +23,5 @@ React hooks: https://scrimba.com/learn/learnreact/hooks-intro-crmJRqfm
 useState: https://scrimba.com/learn/learnreact/usestate-part-1-creating-state-cRqP9mhg
 
 ## Inspelningar
+
+https://funet-my.sharepoint.com/:f:/g/personal/christoffer_wallenberg_folkuniversitetet_se/EuipxZ-wMphFsMbdWVzQU8IBDnpWwxRxJ67Iz7fGdwFKXQ?e=K4Omx3
